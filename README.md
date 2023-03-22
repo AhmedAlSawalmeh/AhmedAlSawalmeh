@@ -15,7 +15,7 @@ create a great career with it.
 
 - 💬 Ask me about JavaScript, ReactJS, NodeJS, MongoDB, and ExpressJS.
 
-- 📫 How to reach me...
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmedalsawalmeh/" >LinkedIn</a>
 
 - 📄 Know about my experiences
 
