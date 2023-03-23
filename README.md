@@ -1,11 +1,8 @@
 # Hi, Ahmed Al Sawalmeh! 👋
 ## 🚀 About Me
 
-I am a passionate person who cares and loves to learn about new technology
-and learn a thing from everything.
-And as a person who is in the stage of learning full-stack development, I'm
-focused on achieving my goal to have a complete understanding of coding and
-create a great career with it.
+I am a passionate individual who is deeply interested in exploring new technologies and discovering opportunities to learn and grow. Currently, I am striving to become proficient in full-stack development and am fully committed to achieving my career aspirations in this field. With my dedication and focus, I am determined to gain a thorough understanding of coding and leverage this knowledge to build a successful career.
+
 ## 
 
 
